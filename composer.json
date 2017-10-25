@@ -1,4 +1,7 @@
 {
-	"name": "derekderaps/chosen",
-	"type": "drupal-library"
+    "name": "derekderaps/chosen",
+    "type": "drupal-library",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
