@@ -1,5 +1,5 @@
 {
-	"name": "components/chosen",
+	"name": "derekderaps/chosen",
 	"description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
 	"type": "component",
 	"license": "MIT",
